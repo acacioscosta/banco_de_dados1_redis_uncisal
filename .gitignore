@@ -1,0 +1,7 @@
+redis-cache/node_modules
+redis-cache/yarn.lock
+
+redis-queue/node_modules
+redis-queue/yarn.lock
+redis-queue/src/config/config.json
+redis-queue/tasks.txt
