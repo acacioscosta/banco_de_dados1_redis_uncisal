@@ -1,0 +1,15 @@
+{
+    "mailtrap": {
+        "host": "",
+        "port": 0,
+        "auth": {
+            "user": "",
+            "pass": ""
+        }
+    },
+
+    "redis": {
+        "host": "127.0.0.1",
+        "port": 6379
+    }
+}
